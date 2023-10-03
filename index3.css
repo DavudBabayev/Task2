@@ -1,0 +1,46 @@
+body{
+    background-color: lightgray;
+}
+.kon1{
+    width: auto;
+    height: auto;
+    background-color: palevioletred;
+    padding: 20px 50px;
+}
+h1{
+    font-weight: bold;
+    color: white;
+}
+.has3{
+    color: white;}
+.kon2{
+    border: double;
+    margin: 2% auto;
+    width: 650px;
+    height: 175px;
+    background-color: seagreen;
+    padding: 50px;
+}
+.kon3{
+    border: double;
+    border-radius: 15px;
+    margin: 5% auto;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    background-color: lightcoral;
+}
+.has32{
+    font-style: italic;
+    color: white;
+}
+.kon4{
+    margin: 10% auto;
+    width: auto;
+    height: auto;
+    background-color: darkcyan;
+    padding: 50px 50px;
+}
+.ase{
+    color: white;
+}
